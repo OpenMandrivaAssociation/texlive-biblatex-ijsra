@@ -1,6 +1,6 @@
 Name:		texlive-biblatex-ijsra
 Version:	41634
-Release:	1
+Release:	2
 Summary:	BibLaTeX style for the International Journal of Student Research in Archaeology
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-ijsra
