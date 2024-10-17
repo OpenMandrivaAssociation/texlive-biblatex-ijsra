@@ -3,7 +3,7 @@ Version:	41634
 Release:	2
 Summary:	BibLaTeX style for the International Journal of Student Research in Archaeology
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-ijsra
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-ijsra
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-ijsra.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-ijsra.doc.r%{version}.tar.xz
